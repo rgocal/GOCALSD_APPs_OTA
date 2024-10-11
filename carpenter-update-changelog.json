@@ -1,13 +1,13 @@
 {
   "latestVersion": "60.10.00",
   "latestVersionCode": "61",
-  "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
+  "url": "https://drive.google.com/file/d/1QyaovCxLFvP-I4wwL86He2shgkXY8D9P/view?usp=sharing",
   "releaseNotes": [
     "- and...we are back online",
     "- Replaced native changelog reader with ota changelog reader",
     "- Implemented OTA updates",
     "- Improved ota Firebase messageing",
-    "- removed demo mode as we are now sideloading this app",
+    "- removed demo mode as we are now sideloading this app(Still looking for dependencies)",
     "- updated dependencies",
     "- Bug Fixes"
   ]
