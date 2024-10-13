@@ -1,13 +1,16 @@
 {
-  "latestVersion": "60.10.01",
-  "latestVersionCode": "62",
+  "latestVersion": "60.10.10",
+  "latestVersionCode": "63",
   "url": "https://drive.google.com/file/d/1QyaovCxLFvP-I4wwL86He2shgkXY8D9P/view?usp=sharing",
   "releaseNotes": [
     "- and...we are back online",
+    "- Removing demo mode and License Restrictions from Carpenter (Help me find them!) WIP",
+    "- added current user count in messaging popup (Messages feature being reworked over time",
+    "- started an experimental under the hood feature to list all community created icons (WIP)",
+    "- Under the hood DB mainenance",
     "- Replaced native changelog reader with ota changelog reader",
     "- Implemented OTA updates",
     "- Improved ota Firebase messageing",
-    "- removed demo mode as we are now sideloading this app(Still looking for dependencies)",
     "- updated dependencies",
     "- Bug Fixes"
   ]
