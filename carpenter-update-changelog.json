@@ -1,9 +1,10 @@
 {
-  "latestVersion": "60.10.10",
-  "latestVersionCode": "63",
+  "latestVersion": "60.10.11",
+  "latestVersionCode": "64",
   "url": "https://drive.google.com/file/d/1QyaovCxLFvP-I4wwL86He2shgkXY8D9P/view?usp=drive_link",
   "releaseNotes": [
     "- and...we are back online",
+    "- fixed download link issue (this is not carpenter...)",
     "- Removing demo mode and License Restrictions from Carpenter (Help me find them!) WIP",
     "- added current user count in messaging popup (Messages feature being reworked over time",
     "- started an experimental under the hood feature to list all community created icons (WIP)",
