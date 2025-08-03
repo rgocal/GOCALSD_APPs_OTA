@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.00",
-  "latestVersionCode": "10",
+  "latestVersion": "2.01",
+  "latestVersionCode": "11",
   "url": "https://play.google.com/apps/testing/com.gocalsd.truesight",
   "releaseNotes": [
-    "A new update is now rolling out on Google Play that focuses on the user experience and bug fixes. See you than!"
+    "We released a update earlier today and than shortly after pushed a hotfix! Make sure you are fully up to date!"
   ]
 }
