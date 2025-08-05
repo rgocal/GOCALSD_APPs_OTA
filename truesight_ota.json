@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.02",
-  "latestVersionCode": "12",
+  "latestVersion": "2.1",
+  "latestVersionCode": "13",
   "url": "https://play.google.com/apps/testing/com.gocalsd.truesight",
   "releaseNotes": [
-    "An update will be rolling out today to fix some small issues we found yesterday after the release of our rather chunky update. Be sure to keep an eye out for it!"
+    "Our next update is scheduled for the end of the week as we will focus on BACKUP and RESTORE fucntionality. This will save us alot of headaches as it was important to incorperate. We are also focusing on some matrix issues and theme issues."
   ]
 }
