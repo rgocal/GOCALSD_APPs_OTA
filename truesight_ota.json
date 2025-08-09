@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.1",
-  "latestVersionCode": "13",
+  "latestVersion": "2.2",
+  "latestVersionCode": "14",
   "url": "https://play.google.com/apps/testing/com.gocalsd.truesight",
   "releaseNotes": [
-    "Our next update is scheduled for the end of the week as we will focus on BACKUP and RESTORE fucntionality. This will save us alot of headaches as it was important to incorperate. We are also focusing on some matrix issues and theme issues."
+    "We are aware that their may be a math issue with the daily percentage calculation. We will address this in our next update."
   ]
 }
