@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.3",
-  "latestVersionCode": "15",
+  "latestVersion": "2.4",
+  "latestVersionCode": "16",
   "url": "https://play.google.com/apps/testing/com.gocalsd.truesight",
   "releaseNotes": [
-    "ATTENTION : We have pushed some major changes in the next update to your database. An error may happen and follow instructions to get back up and running again. We are also intruducing Virtual Rigs which is really exciting! See you than!"
+    "Databases will be wiped for the next major update. Please be aware of this, thankyou testers for your time and effort! This is to ensure all users are on the same database version and rules so bugs are easier to track!"
   ]
 }
