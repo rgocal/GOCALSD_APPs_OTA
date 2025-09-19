@@ -1,7 +1,7 @@
 {
-  "title": "Service Maintenance",
-  "message": "Background services are currently offline, we are actively working to resolve the problem. Thankyou for your patience!",
-  "date": "2025-09-16T01:00:00Z",
-  "url": "https://gocalsdb.wordpress",
-  "live": false
+  "title": "Beta Update",
+  "message": "Looks like you've arrived! How was the ride in? Hey, we got a small video for you to watch if you are interested. It goes over the new UI rather and some changes I've been working on. ",
+  "date": "2025-09-19",
+  "url": "https://youtu.be/zuRNaCsKRCI?si=dMUfO1VvBx5H-bQn",
+  "live": true
 }
