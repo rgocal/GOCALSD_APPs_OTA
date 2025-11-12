@@ -1,7 +1,7 @@
 {
   "title": "Open Beta Live",
-  "message": "Thank you for joining us for the Open Beta! If we have any issues or news to share, be sure to check this spot as we'll update OTA. There may be a link associated with it in the near future. Our goal is to have weekly updates available for the Beta",
-  "date": "2025-11-06",
+  "message": "Thank you for joining us for the Open Beta! This week would represent our second beta update. In this build, I see some issues in regards of license testing recognition. Their are also few dead buttons we need to get wired in",
+  "date": "2025-11-12",
   "url": "",
   "live": true
 }
