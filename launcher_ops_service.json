@@ -1,7 +1,7 @@
 {
-  "title": "Open Beta Live",
-  "message": "Thank you for joining us for the Open Beta! This week would represent our second beta update. In this build, I see some issues in regards of license testing recognition. Their are also few dead buttons we need to get wired in",
-  "date": "2025-11-12",
+  "title": "Beta Issues",
+  "message": "The next update will address some coloring issues we have on the main page.",
+  "date": "2025-11-13",
   "url": "",
   "live": true
 }
