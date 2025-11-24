@@ -1,6 +1,6 @@
 {
-  "title": "Background Services Update",
-  "message": "Where gonna wrap up the week with some hotfix updates. A new update will be headed to launchers quick tile to add support for Launcher Ops 2 this week while some hotfixes will be pushed to Launcher Ops as the metrics viewer is acting funky for some license users. ",
+  "title": "Licensing Issues",
+  "message": "We are currently experiencing an issue where your license isn't being recognized right away and blocking users from some features contained in the menu drawer. A quick fix is to navigate to the app settings and back out to the main activity. We'll have this addressed before Thanksgiving folks.",
   "date": "2025-11-23",
   "url": "https://play.google.com/store/apps/details?id=com.flea.gsd.flea",
   "live": true
