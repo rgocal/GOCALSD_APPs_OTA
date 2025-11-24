@@ -1,7 +1,7 @@
 {
-  "title": "Bug Alert",
-  "message": "There is currently a bug affecting android 16 devices and pixel devices that show a bugged launcher list and some pages not displaying properly for non licensed users. We hope to have a fix out before Thanksgiving. ",
-  "date": "2025-11-22",
+  "title": "Quick Tile Support",
+  "message": "Updates have been pushed to Launchers Quick Tiles to support binding to Launcher Ops 2 when respective apps are installed. Il be adding support to both quick tiles as generous offer. ",
+  "date": "2025-11-23",
   "url": "https://play.google.com/store/apps/details?id=com.flea.gsd.flea",
   "live": true
 }
