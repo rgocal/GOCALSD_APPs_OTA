@@ -1,7 +1,7 @@
 {
-  "title": "Maintenence Service Update Scheduled",
-  "message": "In the coming weeks, Launcher Ops will be receiving some maintenance to handle some background service noise, theme improvements and bug fixes. Now is the time to submit an crucial feedback to take into consideration. Thank you for your support! ",
-  "date": "2026-02-03",
+  "title": "Service Alert",
+  "message": "The Google Play API seems to have been encountering timeouts and service loss lately which will effect some of the services Launcher Ops provides. We are looking at temporary fixes and a long term fix for the future. We apologize for any issues you may have. We are also pushing out maintenence hotfix updates this month. ",
+  "date": "2026-02-04",
   "url": "",
   "live": true
 }
