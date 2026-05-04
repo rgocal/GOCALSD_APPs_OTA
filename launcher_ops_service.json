@@ -1,7 +1,8 @@
 {
-  "title": "Service Alert",
-  "message": "The Google Play API seems to have been encountering timeouts and service loss lately which will effect some of the services Launcher Ops provides. We are looking at temporary fixes and a long term fix for the future. We apologize for any issues you may have. We are also pushing out maintenence hotfix updates this month. ",
-  "date": "2026-02-04",
+  "title": "Lite Mode Now Avaioable",
+  "message": "Have you tried it yet? Access lite mode from the new quick tile added by Launcher Ops in your status bar. This will disable all the extra utilities and turn launcher ops into a generic home switcher if you don't like all the bells and whistles.",
+  "date": "2026-04-05
+5",
   "url": "",
   "live": true
 }
