@@ -1,8 +1,8 @@
 {
-  "title": "Lite Mode Now Avaioable",
-  "message": "Have you tried it yet? Access lite mode from the new quick tile added by Launcher Ops in your status bar. This will disable all the extra utilities and turn launcher ops into a generic home switcher if you don't like all the bells and whistles.",
-  "date": "2026-04-05
+  "title": "License Deprecation",
+  "message": "Launcher Ops will be introducing a Subscription Model in its next update and reverting changes to its minimal requirements to support more devices. Users who have purchased a licensed will be unaffected by this change.",
+  "date": "2026-09-09
 5",
   "url": "",
-  "live": false
+  "live": true
 }
