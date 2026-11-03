@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": "news_01",
+      "title": "GCA Launcher 3.0 Preview Tour",
+      "summary": "Explore a modernized single screen launcher by GocalSD.",
+      "content": "We are thrilled to announce GCA Launcher 3.0 Open Beta! I will officially launch GCA v3 in 2027 with a subscription model to pro features. If you havn't been keeping an eye on my social feed, get caught up on whats new in GCA with this tour I provided on Youtube.",
+      "date": "2026-11-03",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
+      "targetUrl": "https://youtu.be/-VUeqFChpD4?si=vEYRKaGDsE_htwuV"
+    },
+    {
+      "id": "news_02",
+      "title": "GCA v3 Test Video",
+      "summary": "View a test session of GCA v3",
+      "content": "This was one of my first visual test videos coming out to the public for GCA v3. We show off some of the homescreen interactions and Groups 2.0",
+      "date": "2026-11-03",
+      "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000&auto=format&fit=crop",
+      "targetUrl": "https://youtu.be/ojWZO6EAXDY?si=UpxL1omDSxWl7ywC"
+    }
+  ]
+}
