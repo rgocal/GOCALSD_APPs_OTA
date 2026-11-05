@@ -20,23 +20,23 @@
       "targetUrl": "https://youtu.be/ojWZO6EAXDY?si=UpxL1omDSxWl7ywC"
     },
     {
-      "id": "news_03",
-      "title": "App Drawer Issue Reported",
-      "summary": "A new bug is causing havoc, click for details to see if this is affecting you!",
-      "content": "Yesterday, I published an update that included what I had thought to be fixes for the launcher database. A PRUNE instance where the database would automatically fix hanging icons and ones stuck in rendering. When this instance is triggered, it causes the launcher to hang and be unresponsive. I think the only fix at the moment is wiping GCA Launcher cache and memory. A Hotfix is currently rolling out to help resolve this issue and get package session trackers back in business. Contact me if you have run into this issue and/or the next update resolves the issue!",
+      "id": "news_05",
+      "title": "New Update Available",
+      "summary": "Another beta update is now live",
+      "content": "This evening, I published several updates and the final one of the night seems to be the cake. I addressed several issues with the application database, some broken issues in the homescreen dock, fixed the popup listener for dock apps and some app breaking issues caused by the database. I will be working to improve the database logging and execution in the background so we can track issues better in the future. The maintenance section will be revised here soon so keep an eye out. Alot of these trackers will need your permission to be enabled first but be mindful this data is yours unless you share it to me. There is no way for me to access it unless you send it to me. Again, thank you everyone who has helped me button up a few things week.",
       "date": "2026-11-04",
       "imageUrl" :"",
-      "category" : "2",
+      "category" : "3",
       "targetUrl": ""
     },
     {
-      "id": "news_04",
-      "title": "Residual Issues Reported",
-      "summary": "I may have published new bugs for you to try... ",
-      "content": "Our latest update may have broken a few features that are in relationship to the dock and it's styling. Swipe up indicators may retain their original style while apps in the dock don't currently show their popup menus. This will be investigated tomorrow. Thank you for your patience. I am also seeing reports of some banking apps not launching properly. I'd this happens to you, please report back.",
+      "id": "news_06",
+      "title": "Recent App Management",
+      "summary": "Did you know GCA Launcher has a built in app ops?",
+      "content": "GCA Launcher does a great job at recent application managment but it also helps you determine which apps aren't needed or used anymore. Take advantage of the suggestions it gives you! It also offers focus hours. Disable distracting apps at night or at work.",
       "date": "2026-11-05",
       "imageUrl" :"",
-      "category" : "2",
+      "category" : "3",
       "targetUrl": ""
     }
   ]
