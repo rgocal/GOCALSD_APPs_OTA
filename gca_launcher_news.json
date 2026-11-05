@@ -19,4 +19,15 @@
       "targetUrl": "https://youtu.be/ojWZO6EAXDY?si=UpxL1omDSxWl7ywC"
     }
   ]
+},
+    {
+      "id": "news_03",
+      "title": "Issue Reported",
+      "summary": "A new bug is causing havoc, click for details!",
+      "content": "Today, I published an update that included what I had thought to be fixes for the launcher database. A PRUNE instance where the database would automatically fix hanging icons and ones stuck in rendering. When this instance is triggered, it causes the launcher to hang and be unresponsive. I think the only fix at the moment is wiping GCA Launcher cache and memory. I will tackle this issue tomorrow with a hotfix.",
+      "date": "2026-11-04",
+      "imageUrl" :"",
+      "targetUrl": ""
+    }
+  ]
 }
