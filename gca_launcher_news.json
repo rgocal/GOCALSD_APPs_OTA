@@ -7,6 +7,7 @@
       "content": "We are thrilled to announce GCA Launcher 3.0 Open Beta! I will officially launch GCA v3 in 2027 with a subscription model to pro features. If you havn't been keeping an eye on my social feed, get caught up on whats new in GCA with this tour I provided on Youtube.",
       "date": "2026-11-03",
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
+      "category" : "3",
       "targetUrl": "https://youtu.be/-VUeqFChpD4?si=vEYRKaGDsE_htwuV"
     },
     {
@@ -25,6 +26,7 @@
       "content": "Yesterday, I published an update that included what I had thought to be fixes for the launcher database. A PRUNE instance where the database would automatically fix hanging icons and ones stuck in rendering. When this instance is triggered, it causes the launcher to hang and be unresponsive. I think the only fix at the moment is wiping GCA Launcher cache and memory. A Hotfix is currently rolling out to help resolve this issue and get package session trackers back in business. Contact me if you have run into this issue and/or the next update resolves the issue!",
       "date": "2026-11-04",
       "imageUrl" :"",
+      "category" : "2",
       "targetUrl": ""
     }
   ]
