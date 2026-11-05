@@ -17,9 +17,7 @@
       "date": "2026-11-03",
       "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000&auto=format&fit=crop",
       "targetUrl": "https://youtu.be/ojWZO6EAXDY?si=UpxL1omDSxWl7ywC"
-    }
-  ]
-},
+    },
     {
       "id": "news_03",
       "title": "App Drawer Issue Reported",
@@ -29,3 +27,5 @@
       "imageUrl" :"",
       "targetUrl": ""
     }
+  ]
+}
