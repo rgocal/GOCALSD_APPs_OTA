@@ -22,9 +22,9 @@
 },
     {
       "id": "news_03",
-      "title": "Issue Reported",
-      "summary": "A new bug is causing havoc, click for details!",
-      "content": "Today, I published an update that included what I had thought to be fixes for the launcher database. A PRUNE instance where the database would automatically fix hanging icons and ones stuck in rendering. When this instance is triggered, it causes the launcher to hang and be unresponsive. I think the only fix at the moment is wiping GCA Launcher cache and memory. I will tackle this issue tomorrow with a hotfix.",
+      "title": "App Drawer Issue Reported",
+      "summary": "A new bug is causing havoc, click for details to see if this is affecting you!",
+      "content": "Yesterday, I published an update that included what I had thought to be fixes for the launcher database. A PRUNE instance where the database would automatically fix hanging icons and ones stuck in rendering. When this instance is triggered, it causes the launcher to hang and be unresponsive. I think the only fix at the moment is wiping GCA Launcher cache and memory. A Hotfix is currently rolling out to help resolve this issue and get package session trackers back in business. Contact me if you have run into this issue and/or the next update resolves the issue!",
       "date": "2026-11-04",
       "imageUrl" :"",
       "targetUrl": ""
