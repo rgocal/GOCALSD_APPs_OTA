@@ -28,6 +28,16 @@
       "imageUrl" :"",
       "category" : "2",
       "targetUrl": ""
+    },
+    {
+      "id": "news_04",
+      "title": "Residual Issues Reported",
+      "summary": "I may have published new bugs for you to try... ",
+      "content": "Our latest update may have broken a few features that are in relationship to the dock and it's styling. Swipe up indicators may retain their original style while apps in the dock don't currently show their popup menus. This will be investigated tomorrow. Thank you for your patience. I am also seeing reports of some banking apps not launching properly. I'd this happens to you, please report back.",
+      "date": "2026-11-05",
+      "imageUrl" :"",
+      "category" : "2",
+      "targetUrl": ""
     }
   ]
 }
