@@ -1,4 +1,4 @@
-{
+{ 
   "news": [
     {
       "id": "news_01",
@@ -20,14 +20,24 @@
       "targetUrl": "https://youtu.be/ojWZO6EAXDY?si=UpxL1omDSxWl7ywC"
     },
     {
-      "id": "news_03",
-      "title": "Incoming Update",
-      "summary": "Another beta update is headed your way",
-      "content": "The upcoming update shouldnt carrie any weight with it and hopefully no bugs but this update is all about cleanup, as its been a very busy week. You may notice some new settings in the maintenance section and a slight clean up but whats more interesting is the new dashboard settings ive included in the Recents Apps Analytics. Users can now track intent activity to ensure GCA Launcher is launching apps correctly and securely. If you notice any funny business or say a bank app not luanching properly. Trigger the intent watcher logs and see if anything red pops up. If it does, relay that information to me so we can solve the issue together. This new dashboard is all yours to control and see. Any information that leaks out is truely up to you to share it but that data stays with you.",
+      "id": "news_05",
+      "title": "Watch for updates",
+      "summary": "Always install new updates when they become available.",
+      "content": "Even tho I have been personally testing GCA Launcher for about 3 months now and you guys for about a week, we are not done with development. New bugs and issues are discovered every day and that is why the flood gates were opened, stay up to date! Bugs are easier to track if we are all on the same version.",
       "date": "2026-11-06",
       "imageUrl" :"",
       "category" : "3",
       "targetUrl": ""
+    },
+    {
+      "id": "news_04",
+      "title": "XDA Forums Discussion",
+      "summary": "The forums are back up and running again",
+      "content": "Use the forums as a place for discussion, development request and just honest feedback. The future is being developed for all of us. Let's make android fun again!",
+      "date": "2026-11-07",
+      "imageUrl" :"",
+      "category" : "3",
+      "targetUrl": "https://xdaforums.com/t/app-9-0-open-beta-gca-launcher-v3.4071845/"
     }
   ]
 }
