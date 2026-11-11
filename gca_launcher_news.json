@@ -4,7 +4,7 @@
       "id": "news_01",
       "title": "GCA Launcher 3.0 Preview Tour",
       "summary": "Explore a modernized single screen launcher by GocalSD.",
-      "content": "We are thrilled to announce GCA Launcher 3.0 Open Beta! I will officially launch GCA v3 in 2027 with a subscription model to pro features. If you havn't been keeping an eye on my social feed, get caught up on whats new in GCA with this tour I provided on Youtube.",
+      "content": "We are thrilled to announce GCA Launcher 3.0 Open Beta! I will officially launch v3 in 2027 with a subscription model to pro features. If you havn't been keeping an eye on my social feed, get caught up on whats new in GCA with this tour I provided on Youtube.",
       "date": "2026-11-03",
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
       "category" : "3",
@@ -13,7 +13,7 @@
     {
       "id": "news_02",
       "title": "GCA v3 Test Video",
-      "summary": "View a test session of GCA v3",
+      "summary": "View a test session of v3",
       "content": "This was one of my first visual test videos coming out to the public for GCA v3. We show off some of the homescreen interactions and Groups 2.0",
       "date": "2026-11-03",
       "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000&auto=format&fit=crop",
@@ -38,6 +38,16 @@
       "imageUrl" :"",
       "category" : "3",
       "targetUrl": "https://xdaforums.com/t/app-9-0-open-beta-gca-launcher-v3.4071845/"
+    },
+    {
+      "id": "news_06",
+      "title": "Development Update",
+      "summary": "When is our next beta update?",
+      "content": "I'm sure your eager to get your hands on the next beta update but il be spending the next week or so on this build so expect a new release before Thanksgiving here in the states. I am currently focused on refining icon capabilities and icon pack features. I've recently wired in Dynamic calendar and clock icons that will have theming support and customized settings but they will need fine tuned. I'm also working hard to embed more icon pack features. The next update will focus on icons, user customization and start crafting the pavement for release with a new training interface and some other community driven features and translation. Stay tuned!",
+      "date": "2026-11-10",
+      "imageUrl" :"",
+      "category" : "3",
+      "targetUrl": " "
     }
   ]
 }
