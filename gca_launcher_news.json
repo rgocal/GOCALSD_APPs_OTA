@@ -43,11 +43,11 @@
       "id": "news_06",
       "title": "Development Update",
       "summary": "When is our next beta update?",
-      "content": "I'm sure your eager to get your hands on the next beta update but il be spending the next week or so on this build so expect a new release before Thanksgiving here in the states. I am currently focused on refining icon capabilities and icon pack features. I've recently wired in Dynamic calendar and clock icons that will have theming support and customized settings but they will need fine tuned. I'm also working hard to embed more icon pack features. The next update will focus on icons, user customization and start crafting the pavement for release with a new training interface and some other community driven features and translation. Stay tuned!",
+      "content": "I'm sure your eager to get your hands on the next beta update but il be spending the next week or so on this build so expect a new release before Thanksgiving. ",
       "date": "2026-11-10",
       "imageUrl" :"",
       "category" : "3",
-      "targetUrl": " "
+      "targetUrl": "https://gocalsdb.wordpress.com/2026/11/12/holiday-break-update/"
     }
   ]
 }
